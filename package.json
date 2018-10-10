@@ -4,5 +4,6 @@
   "main": "index.js",
   "license": "ISC",
   "description": "Webpack helpers for Netlify Lambda",
-  "author": "8eecf0d2"
+  "author": "8eecf0d2",
+  "repository": "https://github.com/8eecf0d2/webpack-netlify-lambda-plugin.git"
 }
