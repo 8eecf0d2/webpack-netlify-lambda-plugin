@@ -1,0 +1,8 @@
+{
+  "name": "webpack-netlify-lambda-plugin",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "ISC",
+  "description": "Webpack helpers for Netlify Lambda",
+  "author": "8eecf0d2"
+}
